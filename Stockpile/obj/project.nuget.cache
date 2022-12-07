@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tAH+1Z9SYISEwNW+RlwKVjf8SBZ9wqkVs/v0giSJmf966/ICtdJG9j9A2qTWdKxDuokSKAcOg/oD9S2RbcT4Sg==",
+  "dgSpecHash": "CMFndTBcEGNxF8Q+rzuwFd1Cvgs2S4acm04CRq/SuwnhjZTLbiPLMEzlrDZ0RzNxGyWcGVm40OJ1W/j7yu0VRA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jam\\source\\repos\\Stockpile\\Stockpile.csproj",
+  "projectFilePath": "C:\\Users\\jam\\OneDrive\\Documents\\Stockpile\\Stockpile-App-\\Stockpile\\Stockpile.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jam\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\3.1.21\\microsoft.aspnetcore.cryptography.internal.3.1.21.nupkg.sha512",
     "C:\\Users\\jam\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\3.1.21\\microsoft.aspnetcore.cryptography.keyderivation.3.1.21.nupkg.sha512",
